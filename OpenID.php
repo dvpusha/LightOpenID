@@ -1,4 +1,5 @@
 <?php
+namespace Pusha\OpenID;
 
 class LightOpenID
 {
