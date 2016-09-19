@@ -1,7 +1,6 @@
 {
     "name": "dvpusha/lightopenid",
     "description": "Lightweight PHP library for OpenID auth.",
-    "minimum-stability": "stable",
     "type": "library",
     "homepage": "https://github.com/dvpusha/LightOpenID",
     "version": "1.0.0",
